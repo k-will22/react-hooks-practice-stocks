@@ -10,6 +10,7 @@ h2 {
   width: 50%;
   margin: 0 auto;
   text-align: center;
+  border: solid;
 }
 
 .list-group {
@@ -17,3 +18,4 @@ h2 {
   margin: 0 auto;
   text-align: center;
 }
+
